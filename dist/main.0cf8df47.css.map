@@ -1,1 +1,0 @@
-{"version":3,"sources":["css/main.scss"],"names":[],"mappings":"AAAA,KACE,SAGF,OACE","file":"main.0cf8df47.css","sourceRoot":"../src/canvas-resize","sourcesContent":["body {\n  margin: 0;\n}\n\ncanvas {\n  border: 1px solid red;\n}\n"]}
